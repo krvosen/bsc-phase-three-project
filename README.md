@@ -41,8 +41,8 @@ Gold difference is by far the most important variable for our model. The fact th
 project-folder
     |
     League of Legends.pdf
+    high_diamond_ranked_10min.csv
     README.md
-    data-folder
     images-folder
     notebooks-folder
           |
